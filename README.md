@@ -19,7 +19,7 @@
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
+
 
 
 ## <a name="introduction">🤖 Introduction</a>
@@ -51,33 +51,4 @@ sections.
 👉 **Pixel Perfect Design**: Ensures flawless responsiveness across all devices and screen sizes.
 
 and many more, including code architecture and reusability
-
-## <a name="quick-start">🤸 Quick Start</a>
-
-Follow these steps to set up the project locally on your machine.
-
-**Prerequisites**
-
-Make sure you have the following installed on your machine:
-
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
-
-
-**Installation**
-
-Install the project dependencies using npm:
-
-```bash
-npm install
-```
-
-**Running the Project**
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
