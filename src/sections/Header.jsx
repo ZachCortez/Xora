@@ -30,6 +30,13 @@ const Header = () => {
                             <div className="dot" />
                             <NavLink title="pricing" />
                             </li>
+
+                            <li>
+                                <LinkScroll>
+                                    <img src="/images/xora.svg" width={160} height={55} alt="logo"/>
+
+                                </LinkScroll>
+                            </li>
                         </ul>
                     </nav>
                 </div>
