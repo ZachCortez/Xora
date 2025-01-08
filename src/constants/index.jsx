@@ -406,7 +406,7 @@ export const socials = [
         id: "0",
         title: "x",
         icon: "/images/socials/x.svg",
-        url: "#",
+        url: "https://x.com/_saturnbay",
     },
     {
         id: "1",
@@ -418,12 +418,12 @@ export const socials = [
         id: "2",
         title: "Instagram",
         icon: "/images/socials/instagram.svg",
-        url: "#",
+        url: "https://www.instagram.com/saturnbay_/",
     },
     {
         id: "3",
         title: "Discord",
         icon: "/images/socials/discord.svg",
-        url: "#",
+        url: "https://discord.gg/tnXmqbTM",
     },
 ];
